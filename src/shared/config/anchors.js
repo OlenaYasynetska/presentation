@@ -3,5 +3,5 @@ export const ANCHOR_SECTIONS = [
   { id: 'intro', label: 'Введение' },
   { id: 'stack', label: 'Стек' },
   { id: 'structure', label: 'Архитектура' },
-  { id: 'contacts', label: 'Контакты' },
+  { id: 'contacts', label: 'Kontakte' },
 ]
